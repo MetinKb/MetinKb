@@ -28,6 +28,9 @@
 - Kitap okumak
 - Seyahat etmek
 
+Severek Takip Ettiklerim
+- [Tayfun "Prototürk" Erbilen](https://github.com/tayfunerbilen)
+
 ## 📫 Benimle İletişime Geçin
 
 [LinkedIn](https://www.linkedin.com/in/nuh-metin-karabulut-73441b265/)
