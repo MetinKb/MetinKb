@@ -2,7 +2,7 @@
 
 ## 🚀 Kullandığım Teknolojiler
 
-[![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)](https://www.w3.org/html/) <br>
+### [![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)](https://www.w3.org/html/) <br>
 [![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)](https://www.w3.org/Style/CSS/) <br>
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Latest-blue?style=flat&logo=tailwind-css)](https://tailwindcss.com/) <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <br>
