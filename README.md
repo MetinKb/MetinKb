@@ -1,6 +1,6 @@
-# Merhaba, Ben [Adınız]! 👋
+# Merhaba, Ben Metin! 👋
 
-## 🚀 Teknolojiler ve Araçlar
+## 🚀 Kullandığım Teknolojiler
 
 [![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)](https://www.w3.org/Style/CSS/)
@@ -11,7 +11,7 @@
 [![Git](https://img.shields.io/badge/Git-Latest-orange?style=flat&logo=git)](https://git-scm.com/)
 [![VSCode](https://img.shields.io/badge/VSCode-Latest-blue?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
 
-## 🌱 Şu Anda Öğreniyorum
+## 🌱 Şu Anda Öğreniyorum / Başlangıç Düzeyinde 
 
 - ReactJS
 - NodeJS
