@@ -22,9 +22,12 @@
 
 ## 🎮 Hobilerim
 
-Oyun oynamak ve film izlemek.
+- Bilgisayar oyunları
+- Film/dizi izlemek
+- Kitap okumak
+- Seyahat etmek
 
 ## 📫 Benimle İletişime Geçin
 
-[LinkedIn](https://www.linkedin.com/in/yourusername/)
-[GitHub](https://github.com/yourusername/)
+[LinkedIn](https://www.linkedin.com/in/nuh-metin-karabulut-73441b265/)
+
