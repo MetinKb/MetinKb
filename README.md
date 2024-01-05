@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/React-Latest-blue?style=flat&logo=react" width="200" height="40"> <br>
 <img src="https://img.shields.io/badge/Node.js-Latest-green?style=flat&logo=node.js" width="200" height="40"> <br>
 <img src="https://img.shields.io/badge/MongoDB-Latest-green?style=flat&logo=mongodb" width="250" height="40"> <br>
-<img src="https://img.shields.io/badge/VSCode&logo=visual-studio-code" width="250" height="40">
+<img src="https://img.shields.io/badge/VSCode-&logo=visual-studio-code" width="250" height="40">
 
 ## 🌱 Şu Anda Öğreniyorum / Başlangıç Düzeyinde 
 
