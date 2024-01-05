@@ -16,6 +16,14 @@
 <img src="https://img.shields.io/badge/React-Latest-blue?style=flat&logo=react" width="200" height="40"> <br>
 <img src="https://img.shields.io/badge/Node.js-Latest-green?style=flat&logo=node.js" width="200" height="40"> <br>
 
+## Gelecekte Öğrenmek İstediğim Teknolojiler
+
+<img src="https://img.shields.io/badge/TypeScript-Latest-blue?style=flat&logo=typescript" width="200" height="40"> <br>
+<img src="https://img.shields.io/badge/Next.js-Latest-black?style=flat&logo=next.js" width="200" height="40"> <br>
+<img src="https://img.shields.io/badge/GSAP-Latest-green?style=flat&logo=greensock" width="200" height="40"> <br>
+<img src="https://img.shields.io/badge/Tree.js-Latest-brown?style=flat&logo=tree" width="200" height="40"> <br>
+
+
 ## 🔧 Kullandığım Araçlar
 
 - [Visual Studio Code](https://code.visualstudio.com/)
