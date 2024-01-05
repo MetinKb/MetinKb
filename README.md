@@ -27,7 +27,7 @@
 - Kitap okumak
 - Seyahat etmek
 
-Severek Takip Ettiklerim
+## 👑 Severek Takip Ettiklerim
 - [Tayfun "Prototürk" Erbilen](https://github.com/tayfunerbilen)
 
 ## 📫 Benimle İletişime Geçin
