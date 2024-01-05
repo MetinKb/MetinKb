@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/React-Latest-blue?style=flat&logo=react" width="200" height="40"> <br>
 <img src="https://img.shields.io/badge/Node.js-Latest-green?style=flat&logo=node.js" width="200" height="40"> <br>
 
-## Gelecekte Öğrenmek İstediğim Teknolojiler
+## Öğrenmek İstediğim Teknolojiler
 
 <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white" width="200" height="40"> <br>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js" width="150" height="40"> <br>
