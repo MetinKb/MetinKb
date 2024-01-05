@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 ## 🚀 Kullandığım Teknolojiler
 
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=visual-studio-code" width="150" height="40">
 
 </td>
-<td>
+<td width="50%">
 
 ## 🌱 Şu Anda Öğreniyorum / Başlangıç Düzeyinde 
 
