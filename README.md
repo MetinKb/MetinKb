@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white" width="200" height="40"> <br>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js" width="150" height="40"> <br>
 <img src="https://img.shields.io/badge/GSAP-green?style=flat&logo=greensock&logoColor=white" width="100" height="40"> <br>
-<img src="https://img.shields.io/badge/Tree.js-brown?style=flat&logo=tree" width="100" height="40"> <br>
+<img src="https://img.shields.io/badge/Tree.js-brown?style=flat&logo=tree&logoColor=white" width="100" height="40"> <br>
 
 
 ## 🔧 Kullandığım Araçlar
