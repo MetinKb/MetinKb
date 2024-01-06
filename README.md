@@ -6,7 +6,7 @@
 
 ## 🚀 Kullandığım Teknolojiler
 
-<img src="https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5" width="150" height="40"> <br>
+<img src="https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5" width="100" height="30"> <br>
 <img src="https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3" width="150" height="40"> <br>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-Latest-blue?style=flat&logo=tailwind-css" width="250" height="40"> <br>
 <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript" width="250" height="40"> <br>
