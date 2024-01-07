@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript" width="150"> <br>
 <img src="https://img.shields.io/badge/React-Latest-blue?style=flat&logo=react" width="150"> <br>
 <img src="https://img.shields.io/badge/Node.js-Latest-green?style=flat&logo=node.js" width="150"> <br>
-<img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb" width="150"> <br>
-<img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=visual-studio-code" width="150">
+<img src="https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb" width="100"> <br>
+<img src="https://img.shields.io/badge/VSCode-blue?style=flat&logo=visual-studio-code" width="100">
 
 </td>
 <td width="50%">
