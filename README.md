@@ -22,10 +22,10 @@
 
 <img src="https://img.shields.io/badge/React-Latest-blue?style=flat&logo=react" width="150"> <br>
 <img src="https://img.shields.io/badge/Node.js-Latest-green?style=flat&logo=node.js" width="150"> <br>
+<img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white" width="150">
 
 ## Öğrenmeyi Hedeflediğim Teknolojiler
 
-<img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white" width="150"> <br>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js" width="100"> <br>
 <img src="https://img.shields.io/badge/GSAP-green?style=flat&logo=greensock&logoColor=white" width="100"> <br>
 <img src="https://img.shields.io/badge/Tree.js-brown?style=flat&logo=tree&logoColor=white" width="100"> <br>
